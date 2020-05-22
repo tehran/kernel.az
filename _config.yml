@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Tehran Guluzade"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hard-working IT Engineer skilled at overseeing complex IT infrastructure with a focus on efficiency and performance optimization. 
+            Detail-oriented and proactive with strong troubleshooting, communication and analytical skills."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
