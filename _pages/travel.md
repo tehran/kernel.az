@@ -1,4 +1,4 @@
 ---
 permalink: https://travel.winternals.net/
-title: "My Travels"
+title: "My Travel Map"
 ---
