@@ -1,5 +1,5 @@
 ---
-title: "PowerShell based Buld AD Security group creation tool"
+title: "PowerShell based Bulk AD Security group creation tool"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
