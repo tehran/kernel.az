@@ -15,7 +15,7 @@ I know that there are lots of alternative versions of this project in the market
 But I am sure that this tool is useful for some people.
 <!--more-->
 
-By using this **bulkgroup** tool, u can bulk create security user groups in Active directory.
+By using this **bulkgroup** tool, uyoucan bulk create security groups in Active directory.
 
 You can use this tool in two variant (Script version and executable version).
 
