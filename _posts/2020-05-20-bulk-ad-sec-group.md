@@ -14,6 +14,7 @@ This theme supports **link posts**, made famous by John Gruber. To use, just add
 <!--more-->
 
 REQUIRE:  Permission to create group
+
 USAGE:
 ```yaml
 .\bulkgroup.ps1
