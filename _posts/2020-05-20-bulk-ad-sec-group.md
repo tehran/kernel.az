@@ -14,4 +14,4 @@ This theme supports **link posts**, made famous by John Gruber. To use, just add
 <!--more-->
 > And this is how a quote looks.
 
-Some [link](https://github.com/tehran/Own-PowerShell-Scripts/tree/master/AD/BulkGroup) can also be shown.
+You can download project files from this [link](https://github.com/tehran/Own-PowerShell-Scripts/tree/master/AD/BulkGroup) link.
