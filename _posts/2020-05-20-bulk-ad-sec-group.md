@@ -10,8 +10,15 @@ tags:
 link: https://github.com/tehran/Own-PowerShell-Scripts/tree/master/AD/BulkGroup
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+It is my first substantial PowerShell project.
+I know that there are lots of alternative versions of this project in the market.
+But I am sure that this tool is useful for some people.
 <!--more-->
+
+By using this **bulkgroup** tool, u can bulk create security user groups in Active directory.
+
+You can use this tool in two variant (Script version and executable version).
+
 You can download project files from this [link](https://github.com/tehran/Own-PowerShell-Scripts/tree/master/AD/BulkGroup).
 
 REQUIRE:  Permission to create group
@@ -21,4 +28,4 @@ USAGE:
 .\bulkgroup.ps1
 ```
 
-> Quick demonstration video Youtube [link](https://github.com/tehran/Own-PowerShell-Scripts/tree/master/AD/BulkGroup).
+> Quick demonstration video Youtube [link](#).
