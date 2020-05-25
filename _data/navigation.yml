@@ -9,5 +9,7 @@ main:
     url: /about/
   - title: "My Travel Map"
     url: https://travel.winternals.net/
+  - title: "Online Tools"
+    url: https://tools.winternals.net/
   - title: "Resume"
     url: https://resume.winternals.net/
