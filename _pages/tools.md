@@ -1,4 +1,4 @@
 ---
-permalink: https://tools.winternals.net/
+permalink: https://tools.kernel.az/
 title: "Online Tools"
 ---
