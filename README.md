@@ -1,2 +1,2 @@
-# winternals.net
-winternals.net
+# kernel.az
+kernel.az
