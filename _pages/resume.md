@@ -1,4 +1,4 @@
 ---
-permalink: https://resume.winternals.net/
+permalink: https://resume.kernel.az/
 title: "Resume"
 ---
