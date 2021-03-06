@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tehran Guluzade"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Infrastructure Engineer"
+  bio    : "DevOps Engineer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
